@@ -1,0 +1,14 @@
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\bin\Debug\net7.0\ДЗ2.exe
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\bin\Debug\net7.0\ДЗ2.deps.json
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\bin\Debug\net7.0\ДЗ2.runtimeconfig.json
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\bin\Debug\net7.0\ДЗ2.dll
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\bin\Debug\net7.0\ДЗ2.pdb
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.AssemblyInfoInputs.cache
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.AssemblyInfo.cs
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.csproj.CoreCompileInputs.cache
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.dll
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\refint\ДЗ2.dll
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.pdb
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ДЗ2.genruntimeconfig.cache
+C:\Users\инженер\Desktop\Домашнее задание\homeworks\ДЗ2\obj\Debug\net7.0\ref\ДЗ2.dll
